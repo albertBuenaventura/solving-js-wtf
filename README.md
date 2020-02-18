@@ -11,3 +11,6 @@ Most of the provided solutions are in TypeScript.
 * [Promises](src/promises)
 * [Abstraction](src/abstraction)
 * [SOLID](src/solid)
+
+## License
+This project is licensed under the terms of the [MIT](LICENSE) license.
